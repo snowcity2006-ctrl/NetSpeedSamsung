@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NetSpeed</string>
+    <string name="service_title">Индикатор скорости сети</string>
+    <string name="switch_on">Вкл.</string>
+    <string name="switch_off">Выкл.</string>
+    <string name="unit_mbps">Мегабит в секунду (Мбит/с)</string>
+    <string name="unit_kbps">Килобит в секунду (Кбит/с)</string>
+    <string name="overlay_permission_title">Отображение поверх экрана</string>
+    <string name="overlay_permission_desc">Для показа скорости в верхней части экрана рядом с индикатором сигнала требуется разрешение поверх других окон.</string>
+    <string name="grant_permission">Предоставить разрешение</string>
+    <string name="speed_test_btn">Тест скорости сети</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "NetSpeed Indicator",
+  "description": "Монитор скорости интернета и силы сигнала для Samsung Galaxy S24 Ultra и Tab S11 Ultra с плавающим оверлеем в верхней части экрана.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
